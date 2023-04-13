@@ -2,7 +2,6 @@
 <script>
 	import Layout from './../Shared/Layout.svelte';
     export let name;
-
 </script>
 
 <Layout name={name}>
